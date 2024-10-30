@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "928778812133",
+    "project_id": "fir-authflutter-c86b4",
+    "storage_bucket": "fir-authflutter-c86b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928778812133:android:6256cc6db70ae43d72320c",
+        "android_client_info": {
+          "package_name": "com.example.google_authentication_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsdZ8P3XrDgTDI0kkFRXowTQB0l-_dGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928778812133:android:cd17f5bf24399eda72320c",
+        "android_client_info": {
+          "package_name": "com.example.practice_again"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsdZ8P3XrDgTDI0kkFRXowTQB0l-_dGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928778812133:android:492f61d6c06f7d3872320c",
+        "android_client_info": {
+          "package_name": "com.example.practice_google"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsdZ8P3XrDgTDI0kkFRXowTQB0l-_dGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
